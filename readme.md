@@ -1,5 +1,5 @@
 # Club Penguin JS
-Club penguin rewritten in javascript
+Club Penguin rewritten in JavaScript
 
 ## How it works
 We have a view and the other modules
